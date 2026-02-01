@@ -20,18 +20,7 @@
    - **Challenge 2**: Smart Calculator (Medium)
    - **Challenge 3**: Authentication System (Advanced)
    
-   ## 🚀 Quick Start
-```bash
-   # Clone the repository
-   git clone [https://github.com/YOUR_USERNAME/python-variables-tutorial.git](https://github.com/Namrah-99/Python-for-DSA)
-   
-   # Navigate to folder
-   cd python-for-DSA/Python Language Essentials (for DSA)/Variables/Python Variable Patterns
-   
-   # Run any example
-   Python Variable Patterns/challenge_1_task_manager.py
-```
-   
+  
    ## 📖 Usage
    
    Each file is standalone and can be run independently:
